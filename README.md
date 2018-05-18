@@ -1,4 +1,4 @@
 # hello-world
-my first repository
+My first repository
 
-Hi, I'm James. A Computer Science major undergraduate in Nanyang Technological University, Singapore.
+Hi, I'm James Yang, a Computer Science undergraduate in Nanyang Technological University, Singapore. I would regularly upload the projects that I work on to this github account.
